@@ -5,6 +5,9 @@ It provides actionable insights through dynamic visualizations and slicer-based 
 
 ---
 
+Here is Bank Credit & Debit Analysis
+!(Excel Interactive Dashboard – Bank Credit & Debit Analysis.png)
+
 ## 🚀 Key Features
 
 ### ✔ Branch-wise Analysis
