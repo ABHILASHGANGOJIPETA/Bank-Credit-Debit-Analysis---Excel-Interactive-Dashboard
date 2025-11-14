@@ -7,7 +7,7 @@ It provides actionable insights through dynamic visualizations and slicer-based 
 
 ## 📊 Dashboard Preview
 
-![Bank Credit & Debit Dashboard](Excel Interactive Dashboard – Bank Credit & Debit Analysis.png)
+![Bank Credit & Debit Dashboard](https://github.com/ABHILASHGANGOJIPETA/Bank-Credit-Debit-Analysis---Excel-Interactive-Dashboard/blob/3679bdcc62b135b82c1c373da533be7fd5fe32d1/Excel%20Interactive%20Dashboard%20%E2%80%93%20Bank%20Credit%20%26%20Debit%20Analysis.png)
 
 
 ## 🚀 Key Features
